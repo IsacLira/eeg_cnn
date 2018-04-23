@@ -1,1 +1,1 @@
-## Convolutional Neural Networks code for Epilepsy Detection using EEG Brain Signals.
+Convolutional Neural Networks code for Epilepsy Detection using EEG Brain Signals.
